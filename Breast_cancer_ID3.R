@@ -4,7 +4,7 @@
 #Setting the working directory to the location where the data set is downloaded - Breast cancer detection data set
 #setwd(choose.dir())
 #We can also directly mention the data set location as below commented line .If not able to chose from file system
-setwd("C:\Users\ysrin\Documents\3rd year\5th sem\IDA Intro to data Analytics\Project_G12\Project_G12")
+setwd("path") #Set your working directory path 
 
 #Checking the current working directory -> Cross checking if we are in the correct working directory
 getwd()
