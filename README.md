@@ -8,7 +8,7 @@ methodology of choice in BC pattern classification and forecast modeling.
 
 ## In our project we are going to use Iterative Dichotomizer(ID3) Decision Tree algorithm to predict Breast Cancer.
 
-* Features that we have in our project Breast Cancer data set:-
+### Features that we have in our project Breast Cancer data set:-
 * Cl.thickness
 * Cell.size
 * Cell.shape
